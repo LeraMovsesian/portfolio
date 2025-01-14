@@ -15,10 +15,7 @@ const Projects = () => {
             </h1>
 
             <p className="text-slate-500 mt-2 leading-relaxed">
-                I've embarked on numerous projects throughout the years, but
-                these are the ones I hold closest to my heart. Feel free to
-                explore the codebase and contribute your ideas for further
-                enhancements.
+                Here are some of the projects I’ve worked on to enhance my skills. Feel free to explore the codebase, share your thoughts, and check back later for more updates!
             </p>
 
             <div className="flex flex-wrap my-20 gap-16">
