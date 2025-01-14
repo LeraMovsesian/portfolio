@@ -148,7 +148,7 @@ export const experiences = [
         company_name: 'Freelance',
         icon: freelance,
         iconBg: '#b7e4c7',
-        date: 'Jan 2022 - Jan 2023',
+        date: 'November 2022 - February 2023',
         points: [
             'In a team of 2 people we developed an e-commerce website for an electronics store from scratch.',
             'Created an admin panel to manage products, orders, and user data.',
@@ -161,7 +161,7 @@ export const experiences = [
         company_name: 'Attractor Software',
         icon: attractorSoftware,
         iconBg: '#184e6b',
-        date: 'Feb 2023 - May 2024',
+        date: 'Feb 2023 - present',
         points: [
             'Developing and maintaining web applications using React and other related technologies.',
             'Collaborating with cross-functional teams including designers, project managers, and other developers to create high-quality products.',
